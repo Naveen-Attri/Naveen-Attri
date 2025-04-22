@@ -12,7 +12,7 @@ As of Jan 2025
 
 - ⚡ Fun fact **I enjoy both checkmating opponents in chess and optimizing code for speed!** 😄♟️
 
-- 🌐 Website: Under Development 😊😊
+- 🌐 Website: [Link Here](https://3d-portfolio-pied-rho.vercel.app/) 😊😊
 
 - <p align="left"> <img src="https://komarev.com/ghpvc/?username=naveen-attri&label=Profile%20views&color=0e75b6&style=flat" alt="naveen-attri" /></p>
 
